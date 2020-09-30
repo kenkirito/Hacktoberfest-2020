@@ -1,3 +1,2 @@
 # Hacktoberfest-2020
-
-* Harsh Trivedi
+#lets win this time
