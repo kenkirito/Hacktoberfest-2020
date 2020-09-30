@@ -1,2 +1,4 @@
 # Hacktoberfest-2020
-#lets win this time
+
+* Harsh Trivedi
+* Sneha Omer
